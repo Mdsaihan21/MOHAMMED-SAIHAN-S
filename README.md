@@ -1,5 +1,3 @@
-# MOHAMMED-SAIHAN-S
-
 # I'm Mohammed Saihan
 
 🎓 MSc Bioinformatics Student
